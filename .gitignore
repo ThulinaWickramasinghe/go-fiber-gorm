@@ -6,6 +6,8 @@
 *.dylib
 *.db
 
+# env files
+.env
 # Test binary, built with `go test -c`
 *.test
 
